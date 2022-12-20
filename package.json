@@ -1,0 +1,21 @@
+{
+  "name": "colorL",
+  "displayName": "ColorL",
+  "description": "A VScode themes that actually helps you focus to your work",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "ColorL",
+        "uiTheme": "vs-dark",
+        "path": "./themes/ColorL-color-theme.json"
+      }
+    ]
+  }
+}
